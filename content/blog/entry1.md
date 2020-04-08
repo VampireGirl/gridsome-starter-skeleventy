@@ -1,7 +1,7 @@
 ---
-title: Troes retardat
-tags: tag1, tag2
-category: Health
+title: My First Post
+tags: super sport, rowing
+category: Sport
 excerpt: Lorem markdownum aptos pes, Inachidos caput corrumpere!
 created: 2019-01-10
 image: ./images/josh-spires-dronenr-sQalFlXIsLs-unsplash.jpg
